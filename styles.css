@@ -82,6 +82,10 @@ h3 {
   color: #590242;
   padding-left: 15px;
 }
+.smoothjazz h2 {
+  color: white;
+  padding-left: 0;
+}
 .scroll {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
